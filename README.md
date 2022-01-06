@@ -1,4 +1,6 @@
-# Carnegie Mellon's 15-112 Final Project, named _Escape From Dungeon_.
+# _Escape From Dunegon_
+
+Game made with Python and CMU_112_graphics.py "engine"
 
 How to open: run the GameCode.py and enjoy
 
